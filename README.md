@@ -71,21 +71,23 @@ Avanade International Women's Day Hackathon - #EmbracingEquity this Internationa
   
  ![image](https://user-images.githubusercontent.com/101945531/222965580-6211f315-e9bc-4af2-8267-9fa1e6752420.png)
 
-<li> Expand the Datasets section, select the dataset carbon-control and drag it onto the canvas  
+<li> Expand the Datasets section, select the dataset Removing gender bias in hiring through Azure AI's machine learning algorithms and drag it onto the canvas  
   
-![image](https://user-images.githubusercontent.com/101945531/222965459-a7a58c70-0dd2-45ff-b07a-f43d20eaec42.png)
+![image](https://user-images.githubusercontent.com/101945531/223024876-4a2fb69b-74d5-400e-a4df-6581edef0ccd.png)
+
   
 <li> Data transformation section drag Split data module onto the canvas and connect the dataset’s output port to the Split data module. Simply drag from the dataset’s output port to the Split data module’s input port.
   
- ![image](https://user-images.githubusercontent.com/101945531/222965756-6ee41b21-a8e0-46b7-8e41-9b080cc1e97d.png)
+![image](https://user-images.githubusercontent.com/101945531/223025034-499939e6-0851-47b6-85e1-9184b98d9964.png)
   
  <li> Machine Learning Algorithms and under Regression select the Linear Regression module and drag it onto the canvas
    
-  ![image](https://user-images.githubusercontent.com/101945531/222965784-8e2f3ac2-e210-4a2a-bc2e-796bf731d240.png)
+ ![image](https://user-images.githubusercontent.com/101945531/223025145-2c45a968-1bbb-4bdc-b173-0c9ac7fafa98.png)
+
    
 <li> Model Training section, select Train Model. Connect the output port of the Linear Regression module to the left input port of the Train Model module. Connect the left port (training set) of the Split Data module to the right input port.
   
- ![image](https://user-images.githubusercontent.com/101945531/222965814-e36b8b05-031f-4a76-9394-d1845253698e.png)
+ ![image](https://user-images.githubusercontent.com/101945531/223025275-822f80b0-6850-4953-8a77-76fcba8e2ea9.png)
 
   <li> Select the Train Model module and in the right pane click on Edit column to select the label column (the variable that you want to predict).
     
@@ -93,15 +95,16 @@ Avanade International Women's Day Hackathon - #EmbracingEquity this Internationa
 
 <li> Model Scoring and Evaluation section, select the Evaluate Model module. Connect the output of the Score Model module to the left input of the Evaluate Model module
   
-![image](https://user-images.githubusercontent.com/101945531/222965983-04439f5d-bee6-469c-bc9e-ab1afd6f556b.png)
+![image](https://user-images.githubusercontent.com/101945531/223025504-615579dc-091c-4b87-baf7-0ab8680a825d.png)
   
 <br>
   
-![image](https://user-images.githubusercontent.com/101945531/222965996-a165b85b-9789-4ac7-b244-993d28800442.png)
+![image](https://user-images.githubusercontent.com/101945531/223025569-bde733ca-be4f-4d53-b89c-840881f099e2.png)
 
   ## Training model
   
-  ![image](https://user-images.githubusercontent.com/101945531/222966040-d25c403f-1442-47b6-bec6-f0d4a3af4030.png)
+![image](https://user-images.githubusercontent.com/101945531/223025887-181d496f-156b-412c-a138-f48db96e4977.png)
+
 
   
   ## Set up Compute target

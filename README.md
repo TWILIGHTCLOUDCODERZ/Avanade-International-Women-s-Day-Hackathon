@@ -111,13 +111,11 @@ Avanade International Women's Day Hackathon - #EmbracingEquity this Internationa
 ![image](https://user-images.githubusercontent.com/101945531/223026419-70caa84e-4668-45a8-b69f-2e3abf9e24f6.png)
 
   
- <li> Monitor the pipeline job run
-   
- ![image](https://user-images.githubusercontent.com/101945531/222966287-d4e90865-e788-4bba-870c-419aa7e5a2fb.png)
+
    
  ## Result 
    
- <li>Right-click the Score Model and select Visualize > Scored dataset. The last two columns of the dataset are the actual and the predicted CO2 emissions
+ <li>Right-click the Score Model and select Visualize > Scored dataset. 
    ![image](https://user-images.githubusercontent.com/101945531/223046201-e7f6b22f-32aa-4767-99e4-2450ae9bf3a0.png)
 
 

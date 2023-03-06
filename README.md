@@ -91,7 +91,7 @@ Avanade International Women's Day Hackathon - #EmbracingEquity this Internationa
 
   <li> Select the Train Model module and in the right pane click on Edit column to select the label column (the variable that you want to predict).
     
- ![image](https://user-images.githubusercontent.com/101945531/222965924-2e9f5970-2dd0-44d7-bf63-54955c20520b.png)
+ ![image](https://user-images.githubusercontent.com/101945531/223026095-63579e22-5ea0-4418-b6c4-f980467e2620.png)
 
 <li> Model Scoring and Evaluation section, select the Evaluate Model module. Connect the output of the Score Model module to the left input of the Evaluate Model module
   
@@ -111,7 +111,8 @@ Avanade International Women's Day Hackathon - #EmbracingEquity this Internationa
   
  <li> Select the settings icon. In the setting pane, under Default compute target click on Select compute target.
  
- ![image](https://user-images.githubusercontent.com/101945531/222966104-ba1d8d11-55aa-4205-b7cc-3b681b76f03e.png)
+ ![image](https://user-images.githubusercontent.com/101945531/223026017-d1e53246-3a0e-4003-b18d-19c2c376687f.png)
+
   
  <li> Depends on your need create compute target ( cpu/gpu core is high time consumption will be reduced)
    
@@ -125,7 +126,8 @@ Avanade International Women's Day Hackathon - #EmbracingEquity this Internationa
    
 <li> Set up pipeline run form, select Create new, enter a name for the experiment and click Submit. 
   
-![image](https://user-images.githubusercontent.com/101945531/222966252-317fd4c9-c68e-462c-8752-7ea6e0538f14.png)
+![image](https://user-images.githubusercontent.com/101945531/223026419-70caa84e-4668-45a8-b69f-2e3abf9e24f6.png)
+
   
  <li> Monitor the pipeline job run
    

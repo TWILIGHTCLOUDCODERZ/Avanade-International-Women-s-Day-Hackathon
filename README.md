@@ -129,8 +129,8 @@ Avanade International Women's Day Hackathon - #EmbracingEquity this Internationa
  ## Result 
    
  <li>Right-click the Score Model and select Visualize > Scored dataset. The last two columns of the dataset are the actual and the predicted CO2 emissions
-   
- ![image](https://user-images.githubusercontent.com/101945531/222966324-a3b0ec8f-e7e9-4b5c-91a3-379c4c0deb32.png)
+   ![image](https://user-images.githubusercontent.com/101945531/223046201-e7f6b22f-32aa-4767-99e4-2450ae9bf3a0.png)
+
 
   
    
